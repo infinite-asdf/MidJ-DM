@@ -1,3 +1,2 @@
-# hello-world
-Just another repository
-asfdasdfasdfasdfasdfasdfasdfasdf
+# MidJ-DM
+Guided creation of a Midjourney prompt via Python
